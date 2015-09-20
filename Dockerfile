@@ -18,4 +18,4 @@ RUN wget http://ssb.stsci.edu/ssb_installer
 
 RUN chmod +x ssb_installer
 
-RUN printf "ssbrel\n\n" | ./ssb_installer
+RUN printf "ssbrel\n\n" | ./ssb_installer; exit 0
