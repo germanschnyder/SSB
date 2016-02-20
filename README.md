@@ -1,4 +1,4 @@
-# Ureka
+# SSB
 
 [![](https://badge.imagelayers.io/gschnyder/ssb:dev.svg)](https://imagelayers.io/?images=gschnyder/ssb:dev 'Get your own badge on imagelayers.io')
 
